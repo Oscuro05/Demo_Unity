@@ -24,6 +24,11 @@ let unityData = [
       ContributorName: 'Om Ghumre',
       ContributorURL: 'https://github.com/omg12347',
       Project_Repo: 'https://github.com/omg12347/Unity_Project',
+    },
+    {
+        ContributorName: 'Ansh Thakre',
+        ContributorURL: 'https://github.com/Oscuro05',
+        Project_Repo: 'https://github.com/Oscuro05/Ice-N-Berg',
     }
     
   ]
